@@ -9,8 +9,8 @@ Proyecto Final de la Materia de Métodos Numéricos FIME UANL
 ## Métodos a implementar:
 * Interpolación:
     - [x] Lineal
-    - [ ] Newton Adelante
-    - [ ] Newton Atras
+    - [x] Newton Adelante
+    - [x] Newton Atras
     - [ ] Newton Diferencias Divididas
     - [ ] Lagrange
     
