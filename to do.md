@@ -11,8 +11,8 @@ Proyecto Final de la Materia de Métodos Numéricos FIME UANL
     - [x] Lineal
     - [x] Newton Adelante
     - [x] Newton Atras
-    - [ ] Newton Diferencias Divididas
-    - [ ] Lagrange
+    - [x] Newton Diferencias Divididas
+    - [x] Lagrange
     
 * Ecuaciones no lineales:
     - [ ] Gráfico(?)
