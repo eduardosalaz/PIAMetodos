@@ -45,7 +45,7 @@ Proyecto Final de la Materia de Métodos Numéricos FIME UANL
     - [ ] Euler Adelante
     - [ ] Euler Atras
     - [ ] Euler Modificado
-    - [ ] Runge Kutta:
+    * Runge Kutta:
         - [ ] 2do orden
         - [ ] 3er orden
         - [ ] 4to orden:
