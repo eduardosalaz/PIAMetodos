@@ -3,6 +3,7 @@ Proyecto Final de la Materia de Métodos Numéricos FIME UANL
 
 ## JupyterLab:
 * Crear el entorno de binder [Ver](https://github.com/jupyterlab/jupyterlab-demo)
+* Checar si es conveniente usar ipywidgets
 
 ## Métodos a implementar:
 * Interpolación:
