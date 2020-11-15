@@ -1,6 +1,9 @@
 # PIA Métodos Numéricos LMV V6
 Proyecto Final de la Materia de Métodos Numéricos FIME UANL
 
+## JupyterLab:
+* Crear el entorno de binder (Ver)[https://github.com/jupyterlab/jupyterlab-demo]
+
 ## Métodos a implementar:
 * Interpolación:
     * Lineal
