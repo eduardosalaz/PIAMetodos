@@ -15,9 +15,9 @@ Proyecto Final de la Materia de Métodos Numéricos FIME UANL
     - [x] Lagrange
     
 * Ecuaciones no lineales:
-    - [ ] Gráfico(?)
-    - [ ] Bisectriz
-    - [ ] Punto Fijo
+    - [x] Gráfico(?)
+    - [x] Bisectriz
+    - [x] Punto Fijo
     - [ ] Newton Raphson
     - [ ] Falsa posición
     - [ ] Secante
