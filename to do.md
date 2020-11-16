@@ -18,9 +18,9 @@ Proyecto Final de la Materia de Métodos Numéricos FIME UANL
     - [x] Gráfico(?)
     - [x] Bisectriz
     - [x] Punto Fijo
-    - [ ] Newton Raphson
-    - [ ] Falsa posición
-    - [ ] Secante
+    - [x] Newton Raphson
+    - [x] Falsa posición
+    - [x] Secante
     
 * Ecuaciones lineales:
     - [ ] Montante
