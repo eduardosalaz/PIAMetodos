@@ -5,6 +5,8 @@ Proyecto Final de la Materia de Métodos Numéricos FIME UANL
 * Crear el entorno de binder [Ver](https://github.com/jupyterlab/jupyterlab-demo)
 * Workspace [Ejemplo](https://github.com/jupyterlab/jupyterlab/issues/5793)
 * Checar si es conveniente usar ipywidgets
+* Añadir el interactive matplotlib al entorno de Binder
+* Crear la tabla de contenidos de Lab y de cada Libreta
 
 ## Métodos a implementar:
 * Interpolación:
