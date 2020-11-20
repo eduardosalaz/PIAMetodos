@@ -1,7 +1,10 @@
-jupyter lab clean
+jupyter lab clean --all
+jupyter lab build --debug
 
 # Setup a workspace
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
 jupyter labextension install jupyter-matplotlib
 jupyter nbextension enable --py widgetsnbextension
 jupyter lab workspaces import binder/workspace.json
+
+jupyter lab build --debug
