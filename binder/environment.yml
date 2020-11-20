@@ -5,8 +5,13 @@ dependencies:
   - python=3.8
   - console_shortcut
   - jupyterlab
-  - numpy = 1.19.2
-  - scipy = 1.5.2
-  - sympy = 1.6.2
-  - matplotlib = 3.3.2
-
+  - numpy
+  - scipy
+  - sympy
+  - matplotlib
+  - nodejs
+  - pip:
+    - ipympl
+    - ipywidgets
+    - jupyterlab
+    - widgetsnbextension
