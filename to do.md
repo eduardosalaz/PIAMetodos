@@ -25,9 +25,9 @@ Proyecto Final de la Materia de Métodos Numéricos FIME UANL
     - [x] Secante
     
 * Ecuaciones lineales:
-    - [ ] Montante
-    - [ ] Gauss Jordan
-    - [ ] Eliminación Gaussiana
+    - [x] Montante
+    - [x] Gauss Jordan
+    - [x] Eliminación Gaussiana
     - [ ] Gauss Seidel
     - [ ] Jacobi
     
