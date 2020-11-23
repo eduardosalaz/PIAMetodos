@@ -2,11 +2,17 @@
 Proyecto Final de la Materia de Métodos Numéricos FIME UANL
 
 ## JupyterLab:
-* Crear el entorno de binder [Ver](https://github.com/jupyterlab/jupyterlab-demo)
-* Workspace [Ejemplo](https://github.com/jupyterlab/jupyterlab/issues/5793)
-* Checar si es conveniente usar ipywidgets
-* Añadir el interactive matplotlib al entorno de Binder
 * Crear la tabla de contenidos de Lab y de cada Libreta
+
+## General:
+* Validar todas las entradas por su TIPO (strings, menos las no lineales)
+* Interpolación:
+    * Validar que el valor ingresado esté dentro del rango (no extrapolar)
+* No Lineales:
+    * Checar que onda con Secante
+* Lineales:
+    * Validar inputs en general (paridad de la matriz, que no sean multiplos las lineas, ceros)
+    * Generalizar Montante, Jacobi, arreglar el mugrero que tengo en Jacobi para la salida(imprimir solo los elementos de la primera columna de todas las filas?)
 
 ## Métodos a implementar:
 * Interpolación:
@@ -17,7 +23,7 @@ Proyecto Final de la Materia de Métodos Numéricos FIME UANL
     - [x] Lagrange
     
 * Ecuaciones no lineales:
-    - [x] Gráfico(?)
+    - [x] Gráfico
     - [x] Bisectriz
     - [x] Punto Fijo
     - [x] Newton Raphson
@@ -28,8 +34,8 @@ Proyecto Final de la Materia de Métodos Numéricos FIME UANL
     - [x] Montante
     - [x] Gauss Jordan
     - [x] Eliminación Gaussiana
-    - [ ] Gauss Seidel
-    - [ ] Jacobi
+    - [x] Gauss Seidel
+    - [x] Jacobi
     
 * Mínimos Cuadrados:
     - [ ] Línea recta
