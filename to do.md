@@ -38,7 +38,7 @@ Proyecto Final de la Materia de Métodos Numéricos FIME UANL
     - [x] Jacobi
     
 * Mínimos Cuadrados:
-    - [ ] Línea recta
+    - [x] Línea recta
     - [ ] Cuadrática
     - [ ] Cúbica 
     - [ ] Lineal con función
