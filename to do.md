@@ -13,6 +13,8 @@ Proyecto Final de la Materia de Métodos Numéricos FIME UANL
 * Lineales:
     * Validar inputs en general (paridad de la matriz, que no sean multiplos las lineas, ceros)
     * Generalizar Montante, Jacobi, arreglar el mugrero que tengo en Jacobi para la salida(imprimir solo los elementos de la primera columna de todas las filas?)
+* Mínimos:
+   * Limpiar nombres de variables, hacerlas más comprensibles
 
 ## Métodos a implementar:
 * Interpolación:
@@ -39,10 +41,10 @@ Proyecto Final de la Materia de Métodos Numéricos FIME UANL
     
 * Mínimos Cuadrados:
     - [x] Línea recta
-    - [ ] Cuadrática
-    - [ ] Cúbica 
-    - [ ] Lineal con función
-    - [ ] Cuadrática con función
+    - [x] Cuadrática
+    - [x] Cúbica 
+    - [x] Lineal con función
+    - [x] Cuadrática con función
 
 * Integración:
     - [ ] Regla Trapezoidal
