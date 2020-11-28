@@ -15,7 +15,8 @@ Proyecto Final de la Materia de Métodos Numéricos FIME UANL
     * Generalizar Montante, Jacobi, arreglar el mugrero que tengo en Jacobi para la salida(imprimir solo los elementos de la primera columna de todas las filas?)
 * Mínimos:
    * Limpiar nombres de variables, hacerlas más comprensibles
-
+* Integracion:
+   * Validar limite inferior y superior, que n sea par o impar dependiendo del método
 ## Métodos a implementar:
 * Interpolación:
     - [x] Lineal
@@ -47,11 +48,11 @@ Proyecto Final de la Materia de Métodos Numéricos FIME UANL
     - [x] Cuadrática con función
 
 * Integración:
-    - [ ] Regla Trapezoidal
-    - [ ] Newton Cotes Cerradas
-    - [ ] Newton Cotes Abiertas
-    - [ ] 1/3 de Simpson
-    - [ ] 3/8 de Simpson
+    - [x] Regla Trapezoidal
+    - [x] Newton Cotes Cerradas
+    - [x] Newton Cotes Abiertas
+    - [x] 1/3 de Simpson
+    - [x] 3/8 de Simpson
 
 * Ecuaciones Diferenciales Ordinarias
     - [ ] Euler Adelante
