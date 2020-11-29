@@ -5,7 +5,7 @@ Proyecto Final de la Materia de Métodos Numéricos FIME UANL
 * Crear la tabla de contenidos de Lab y de cada Libreta
 
 ## General:
-* Validar todas las entradas por su TIPO (strings, menos las no lineales)
+* Validar todas las entradas por su TIPO (strings, menos las no lineales, integración y ecuaciones diferenciales, validar por tipo de Sympy)
 * Interpolación:
     * Validar que el valor ingresado esté dentro del rango (no extrapolar)
 * No Lineales:
@@ -55,13 +55,13 @@ Proyecto Final de la Materia de Métodos Numéricos FIME UANL
     - [x] 3/8 de Simpson
 
 * Ecuaciones Diferenciales Ordinarias
-    - [ ] Euler Adelante
+    - [x] Euler Adelante
     - [ ] Euler Atras
-    - [ ] Euler Modificado
+    - [x] Euler Modificado
     * Runge Kutta:
-        - [ ] 2do orden
-        - [ ] 3er orden
-        - [ ] 4to orden:
-            - [ ] 1/3 Simpson
-            - [ ] 3/8 Simpson
-        - [ ] Orden Superior
+        - [x] 2do orden
+        - [x] 3er orden
+        - [x] 4to orden:
+            - [x] 1/3 Simpson
+            - [x] 3/8 Simpson
+        - [x] Orden Superior
