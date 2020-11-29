@@ -17,6 +17,7 @@ Proyecto Final de la Materia de Métodos Numéricos FIME UANL
    * Limpiar nombres de variables, hacerlas más comprensibles
 * Integracion:
    * Validar limite inferior y superior, que n sea par o impar dependiendo del método
+   * Mostrar cálculos internos de los primeros métodos
 ## Métodos a implementar:
 * Interpolación:
     - [x] Lineal
@@ -56,7 +57,7 @@ Proyecto Final de la Materia de Métodos Numéricos FIME UANL
 
 * Ecuaciones Diferenciales Ordinarias
     - [x] Euler Adelante
-    - [ ] Euler Atras
+    - [x] Euler Atras
     - [x] Euler Modificado
     * Runge Kutta:
         - [x] 2do orden
