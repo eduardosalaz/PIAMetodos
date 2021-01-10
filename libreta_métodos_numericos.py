@@ -80,7 +80,7 @@ Para usar este método, hay que ejecutar la **celda** de código siguiente e ing
 
 #@title Calculadora Interpolación Lineal
 try:
-  arr_x_lineal = []
+  arr_x_lineal = [] 
   arr_x_lineal.append(float(input("Ingrese el valor de a: ")))
   arr_x_lineal.append(float(input("Ingrese el valor de b: ")))
   arr_x_lineal = np.array(arr_x_lineal)
